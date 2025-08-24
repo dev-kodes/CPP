@@ -1,4 +1,4 @@
-How to code on github.
+How to push code on github.
 
 git status -> to see new file which is not added in github till now
 
