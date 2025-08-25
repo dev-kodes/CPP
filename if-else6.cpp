@@ -17,4 +17,5 @@ int main() {
     cout<<"vowel";}
     else 
         cout<<"consonent";
-}
+    return 0;
+};
