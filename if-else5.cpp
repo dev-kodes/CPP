@@ -16,4 +16,5 @@ int main() {
     {
         cout<<"negative";
     }
-}
+    return 0;
+};
