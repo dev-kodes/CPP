@@ -10,6 +10,5 @@ int main() {
     } else {
         cout<<"Teenager";
     }
-    
     return 0;
 }
