@@ -13,4 +13,5 @@ int main() {
     {
         cout<<"odd";
     }
-}
+    return 0;
+};
